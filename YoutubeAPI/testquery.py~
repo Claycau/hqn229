@@ -35,7 +35,7 @@ def SearchAndPrintVideosByKeywords(list_of_search_terms):
 	query = gdata.youtube.service.YouTubeVideoQuery()
 	query.orderby = 'viewCount'
 	query.racy = 'include'
-#	query.author = 'LadyGagaVEVO'
+	query.author = 'LadyGagaVEVO'
 	query.max_results = 10
 	for search_term in list_of_search_terms:
 		new_term = search_term.lower()

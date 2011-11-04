@@ -1,4 +1,6 @@
 .DS_Store
 files/*
+matlab/files/*
 *.mp4
 *.mp3
+*.flv
