@@ -1,6 +1,7 @@
 from BeautifulSoup import BeautifulSoup, SoupStrainer
 import re, urllib2
 #sample query = getYTKeys(['bad', 'romance'])
+#result= qrO4YZeyl0I
 
 def getYTKeys(keywords):
 	search = ''
