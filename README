@@ -1,2 +1,7 @@
 A secret final project for CS229!
 Dependencies not included: google data api for python (data for python), 
+
+Tasks: 
+1. hotttnesss vs get_segments_timbre
+2. hotness vs get_sections_start?
+Or maybe convert sections_start to section length vector
