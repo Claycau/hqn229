@@ -1,9 +1,14 @@
 from BeautifulSoup import BeautifulSoup, SoupStrainer
-import re, urllib2
+import re, urllib2, cookielib
 #sample query = getYTKeys(['bad', 'romance'])
 #result= qrO4YZeyl0I
 
 def getYTKeys(keywords):
+	cj = cookielib.CookieJar()
+	opener = urllib2.build_opener(urllib2.HTTPCookieProcessor(cj))
+	login_data = urllib.urlencode({'username' : 'myname', 'password' : '123456'})
+	resp = opener.open('http://www.example.com/signin.html', login_data)
+
 	search = ''
 	sz = len(keywords)
 	for word in range(sz-1):

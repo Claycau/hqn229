@@ -1,0 +1,7 @@
+#use this for billboard scraping
+
+from BillboardScraper import Scrape
+
+url = 'http://www.song-database.com/charts.php?wk=1955-11-19&type=ht'
+for(
+    url = Scrape(url)
