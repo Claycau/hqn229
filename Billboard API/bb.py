@@ -3,7 +3,7 @@ import time
 
 from BillboardScraper import Scrape
 
-url = 'http://www.song-database.com/charts.php?wk=2008-10-11&type=ht'
+url = 'http://www.song-database.com/charts.php?wk=2008-09-13&type=ht'
 for i in range(52*10):
     print url
     url = Scrape(url)

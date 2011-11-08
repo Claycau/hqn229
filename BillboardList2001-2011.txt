@@ -1,0 +1,400 @@
+2008-10-11|1|Whatever You Like|T.I.|Urban
+2008-10-11|2|So What|Pink|Pop Divas
+2008-10-11|3|Love Lockdown|Kanye West|Urban
+2008-10-11|4|Disturbia|Rihanna|Soul - Modern
+2008-10-11|5|Paper Planes|M.I.A.|Pop Divas
+2008-10-11|6|Hot N Cold|Katy Perry|Pop 2010
+2008-10-11|7|Can't Believe It|T-Pain|Urban
+2008-10-11|8|Closer|Ne-Yo|Soul - Modern
+2008-10-11|9|Love Story|Taylor Swift|Country - Modern
+2008-10-11|10|American Boy|Estelle|Urban
+2008-10-11|11|Miss Independent|Ne-Yo|Soul - Modern
+2008-10-11|12|I'm Yours|Jason Mraz|Pop Divos
+2008-10-11|13|Forever|Chris Brown|Soul - Modern
+2008-10-11|14|Got Money|Lil' Wayne|Urban
+2008-10-11|15|Let It Rock|Kevin Rudolf|Rock - Mainstream
+2008-10-11|16|Viva La Vida|Coldplay|Rock - Mainstream
+2008-10-11|17|Right Now (Na Na Na)|Akon|Urban
+2008-10-11|18|Better In Time|Leona Lewis|Pop Divas
+2008-10-11|19|Dangerous|Kardinal Offishall|Urban
+2008-10-11|20|Crush|David Archuleta|American Idols
+2008-10-11|21|One Step At A Time|Jordin Sparks|American Idols
+2008-10-11|22|Mrs. Officer|Lil' Wayne|Urban
+2008-10-11|23|In The Ayer|Flo Rida|Urban
+2008-10-11|24|My Life|Game|Urban
+2008-10-11|25|Fall For You|Secondhand Serenade|Rock - Modern
+2008-10-11|26|Swagga Like Us|Jay-Z|Urban
+2008-10-11|27|Love Remains The Same|Gavin Rossdale|Rock - Modern
+2008-10-11|28|All Summer Long|Kid Rock|Rock - Modern
+2008-10-11|29|All Summer Long|Rock Heroes|Rock - Mainstream
+2008-10-11|30|Take A Bow|Rihanna|Soul - Modern
+2008-10-11|31|I Kissed A Girl|Katy Perry|Pop 2010
+2008-10-11|32|Bleeding Love|Leona Lewis|Pop Divas
+2008-10-11|33|Put On|Young Jeezy|Urban
+2008-10-11|34|Leavin'|Jesse McCartney|Bubblegum
+2008-10-11|35|Don't Think That I Don't Think About It|Darius Rucker|Country - Modern
+2008-10-11|36|Spotlight|Jennifer Hudson|American Idols
+2008-10-11|37|When I Grow Up|Pussycat Dolls|Girl Groups - Modern
+2008-10-11|38|Shake It|Metro Station|Rock - Mainstream
+2008-10-11|39|Need U Bad|Jazmine Sullivan|Soul - Modern
+2008-10-11|40|What Them Girls Like|Ludacris|Urban
+2008-10-11|41|A Milli|Lil' Wayne|Urban
+2008-10-11|42|Pocketful Of Sunshine|Natasha Bedingfield|Pop Divas
+2008-10-11|43|Just A Dream|Carrie Underwood|American Idols
+2008-10-11|44|Everybody Wants To Go To Heaven|Kenny Chesney|Country - Modern
+2008-10-11|45|Addicted|Saving Abel|Rock - Modern
+2008-10-11|46|Swing|Savage|Urban
+2008-10-11|47|She Never Cried In Front Of Me|Toby Keith|Country - Modern
+2008-10-11|48|Get Like Me|David Banner|Urban
+2008-10-11|49|The Time Of My Life|David Cook|American Idols
+2008-10-11|50|Body On Me|Nelly|Urban
+2008-10-11|51|Shattered (Turn The Car Around)|O.A.R.|Rock - Modern
+2008-10-11|52|Chicken Fried|Zac Brown Band|Country - Modern
+2008-10-11|53|T-Shirt|Shontelle|Pop Divas
+2008-10-11|54|What About Now|Daughtry|American Idols
+2008-10-11|55|Do You Believe Me Now|Jimmy Wayne|Country - Modern
+2008-10-11|56|The Business|Yung Berg|Urban
+2008-10-11|57|Ready For Whatever|T.I.|Urban
+2008-10-11|58|Green Light|John Legend|Soul - Modern
+2008-10-11|59|Waitin' On A Woman|Brad Paisley|Country - Modern
+2008-10-11|60|Johnny & June|Heidi Newfield|Country - Modern
+2008-10-11|61|Troubador|George Strait|Country - Modern
+2008-10-11|62|So Fly|Slim|Soul - Modern
+2008-10-11|63|Krazy|Pitbull|Pop 2010
+2008-10-11|64|Bartender Song (aka Sittin' At A Bar)|Rehab|Rock - Modern
+2008-10-11|65|Lolli Lolli|Three 6 Mafia|Urban
+2008-10-11|66|Please Excuse My Hands|Plies|Urban
+2008-10-11|67|Just Dance|Lady Gaga|Pop 2010
+2008-10-11|68|Don't Forget|Demi Lovato|Bubblegum
+2008-10-11|69|Magic|Robin Thicke|Pop Divos
+2008-10-11|70|Out Here Grindin'|DJ Khaled|Urban
+2008-10-11|71|Burnin' Up|Jonas Brothers|Bubblegum
+2008-10-11|72|Come On Get Higher|Matt Nathanson|Folk
+2008-10-11|73|Baby|LL Cool J|Urban
+2008-10-11|74|Cry For You|September|Dance
+2008-10-11|75|Angel|Natasha Bedingfield|Pop Divas
+2008-10-11|76|The Day That Never Comes|Metallica|Rock - Modern
+2008-10-11|77|I Still Miss You|Keith Anderson|Country - Modern
+2008-10-11|78|Lovebug|Jonas Brothers|Bubblegum
+2008-10-11|79|All I Want To Do|Sugarland|Country - Modern
+2008-10-11|80|Live Your Life|T.I.|Urban
+2008-10-11|81|I Don't Care|Fall Out Boy|Rock - Modern
+2008-10-11|82|Should've Said No|Taylor Swift|Country - Modern
+2008-10-11|83|Right Here (Departed)|Brandy|Pop Divas
+2008-10-11|84|Roll With Me|Montgomery Gentry|Country - Modern
+2008-10-11|85|Check Yes Juliet (Run Baby Run)|We The Kings|Rock - Mainstream
+2008-10-11|86|Use Somebody|Kings Of Leon|Rock - Modern
+2008-10-11|87|Let It Go|Tim McGraw|Country - Modern
+2008-10-11|88|You Look Good In My Shirt|Keith Urban|Country - Modern
+2008-10-11|89|Shut Up And Let Me Go|Ting Tings|Rock - Modern
+2008-10-11|90|Bad Girlfriend|Theory Of A Deadman|Rock - Modern
+2008-10-11|91|Energy|Keri Hilson|Soul - Modern
+2008-10-11|92|Superwoman|Alicia Keys|Pop Divas
+2008-10-11|93|Mr. Carter|Lil' Wayne|Urban
+2008-10-11|94|Holler Back|Lost Trailers|Country - Modern
+2008-10-11|95|Country Man|Luke Bryan|Country - Modern
+2008-10-11|96|Here I Am|Rick Ross|Urban
+2008-10-11|97|That's What You Get|Paramore|Rock - Modern
+2008-10-11|98|Cookie Jar|Gym Class Heroes|Urban
+2008-10-11|99|Already Gone|Sugarland|Country - Modern
+2008-10-11|100|On The Line|Demi Lovato|Bubblegum
+2008-10-04|1|Whatever You Like|T.I.|Urban
+2008-10-04|2|So What|Pink|Pop Divas
+2008-10-04|3|Love Lockdown|Kanye West|Urban
+2008-10-04|4|Disturbia|Rihanna|Soul - Modern
+2008-10-04|5|Love Story|Taylor Swift|Country - Modern
+2008-10-04|6|Paper Planes|M.I.A.|Pop Divas
+2008-10-04|7|Closer|Ne-Yo|Soul - Modern
+2008-10-04|8|Can't Believe It|T-Pain|Urban
+2008-10-04|9|Hot N Cold|Katy Perry|Pop 2010
+2008-10-04|10|American Boy|Estelle|Urban
+2008-10-04|11|Forever|Chris Brown|Soul - Modern
+2008-10-04|12|Got Money|Lil' Wayne|Urban
+2008-10-04|13|I'm Yours|Jason Mraz|Pop Divos
+2008-10-04|14|Miss Independent|Ne-Yo|Soul - Modern
+2008-10-04|15|Crush|David Archuleta|American Idols
+2008-10-04|16|Viva La Vida|Coldplay|Rock - Mainstream
+2008-10-04|17|Dangerous|Kardinal Offishall|Urban
+2008-10-04|18|Better In Time|Leona Lewis|Pop Divas
+2008-10-04|19|One Step At A Time|Jordin Sparks|American Idols
+2008-10-04|20|In The Ayer|Flo Rida|Urban
+2008-10-04|21|Let It Rock|Kevin Rudolf|Rock - Mainstream
+2008-10-04|22|Swagga Like Us|Jay-Z|Urban
+2008-10-04|23|Fall For You|Secondhand Serenade|Rock - Modern
+2008-10-04|24|Mrs. Officer|Lil' Wayne|Urban
+2008-10-04|25|My Life|Game|Urban
+2008-10-04|26|I Kissed A Girl|Katy Perry|Pop 2010
+2008-10-04|27|Take A Bow|Rihanna|Soul - Modern
+2008-10-04|28|Put On|Young Jeezy|Urban
+2008-10-04|29|All Summer Long|Kid Rock|Rock - Modern
+2008-10-04|30|A Milli|Lil' Wayne|Urban
+2008-10-04|31|Bleeding Love|Leona Lewis|Pop Divas
+2008-10-04|32|When I Grow Up|Pussycat Dolls|Girl Groups - Modern
+2008-10-04|33|Leavin'|Jesse McCartney|Bubblegum
+2008-10-04|34|Love Remains The Same|Gavin Rossdale|Rock - Modern
+2008-10-04|35|Shake It|Metro Station|Rock - Mainstream
+2008-10-04|36|Don't Think That I Don't Think About It|Darius Rucker|Country - Modern
+2008-10-04|37|Need U Bad|Jazmine Sullivan|Soul - Modern
+2008-10-04|38|All Summer Long|Rock Heroes|Rock - Mainstream
+2008-10-04|39|Pocketful Of Sunshine|Natasha Bedingfield|Pop Divas
+2008-10-04|40|Get Like Me|David Banner|Urban
+2008-10-04|41|Spotlight|Jennifer Hudson|American Idols
+2008-10-04|42|Body On Me|Nelly|Urban
+2008-10-04|43|Just A Dream|Carrie Underwood|American Idols
+2008-10-04|44|Green Light|John Legend|Soul - Modern
+2008-10-04|45|Swing|Savage|Urban
+2008-10-04|46|Do You Believe Me Now|Jimmy Wayne|Country - Modern
+2008-10-04|47|Lollipop|Lil' Wayne|Urban
+2008-10-04|48|The Time Of My Life|David Cook|American Idols
+2008-10-04|49|What Them Girls Like|Ludacris|Urban
+2008-10-04|50|The Business|Yung Berg|Urban
+2008-10-04|51|Everybody Wants To Go To Heaven|Kenny Chesney|Country - Modern
+2008-10-04|52|She Never Cried In Front Of Me|Toby Keith|Country - Modern
+2008-10-04|53|Addicted|Saving Abel|Rock - Modern
+2008-10-04|54|Shattered (Turn The Car Around)|O.A.R.|Rock - Modern
+2008-10-04|55|What About Now|Daughtry|American Idols
+2008-10-04|56|Lolli Lolli|Three 6 Mafia|Urban
+2008-10-04|57|Waitin' On A Woman|Brad Paisley|Country - Modern
+2008-10-04|58|T-Shirt|Shontelle|Pop Divas
+2008-10-04|59|Johnny & June|Heidi Newfield|Country - Modern
+2008-10-04|60|Chicken Fried|Zac Brown Band|Country - Modern
+2008-10-04|61|Troubador|George Strait|Country - Modern
+2008-10-04|62|Out Here Grindin'|DJ Khaled|Urban
+2008-10-04|63|I Don't Care|Fall Out Boy|Rock - Modern
+2008-10-04|64|Baby|LL Cool J|Urban
+2008-10-04|65|Bartender Song (aka Sittin' At A Bar)|Rehab|Rock - Modern
+2008-10-04|66|Please Excuse My Hands|Plies|Urban
+2008-10-04|67|Magic|Robin Thicke|Pop Divos
+2008-10-04|68|Burnin' Up|Jonas Brothers|Bubblegum
+2008-10-04|69|Go Hard|DJ Khaled|Urban
+2008-10-04|70|Just Stand Up|Various Artists|Rock - Mainstream
+2008-10-04|71|So Fly|Slim|Soul - Modern
+2008-10-04|72|Here I Am|Rick Ross|Urban
+2008-10-04|73|Just Dance|Lady Gaga|Pop 2010
+2008-10-04|74|Cookie Jar|Gym Class Heroes|Urban
+2008-10-04|75|Come On Get Higher|Matt Nathanson|Folk
+2008-10-04|76|Cry For You|September|Dance
+2008-10-04|77|Check Yes Juliet (Run Baby Run)|We The Kings|Rock - Mainstream
+2008-10-04|78|I Still Miss You|Keith Anderson|Country - Modern
+2008-10-04|79|You Look Good In My Shirt|Keith Urban|Country - Modern
+2008-10-04|80|Shut Up And Let Me Go|Ting Tings|Rock - Modern
+2008-10-04|81|Holler Back|Lost Trailers|Country - Modern
+2008-10-04|82|All I Want To Do|Sugarland|Country - Modern
+2008-10-04|83|Should've Said No|Taylor Swift|Country - Modern
+2008-10-04|84|Energy|Keri Hilson|Soul - Modern
+2008-10-04|85|The Day That Never Comes|Metallica|Rock - Modern
+2008-10-04|86|That's What You Get|Paramore|Rock - Modern
+2008-10-04|87|Right Here (Departed)|Brandy|Pop Divas
+2008-10-04|88|Lovebug|Jonas Brothers|Bubblegum
+2008-10-04|89|Superwoman|Alicia Keys|Pop Divas
+2008-10-04|90|Thunder|Boys Like Girls|Rock - Modern
+2008-10-04|91|Roll With Me|Montgomery Gentry|Country - Modern
+2008-10-04|92|Mr. Carter|Lil' Wayne|Urban
+2008-10-04|93|Angel|Natasha Bedingfield|Pop Divas
+2008-10-04|94|Good Time|Alan Jackson|Country - Modern
+2008-10-04|95|Let It Go|Tim McGraw|Country - Modern
+2008-10-04|96|Country Man|Luke Bryan|Country - Modern
+2008-10-04|97|I'd Rather Be With You|Joshua Radin|Folk
+2008-10-04|98|Get Back|Demi Lovato|Bubblegum
+2008-10-04|99|If I Never See Your Face Again|Maroon5|Rock - Mainstream
+2008-10-04|100|No Me Doy Por Vencido|Luis Fonsi|Latin
+2008-09-27|1|So What|Pink|Pop Divas
+2008-09-27|2|Whatever You Like|T.I.|Urban
+2008-09-27|3|Disturbia|Rihanna|Soul - Modern
+2008-09-27|4|Paper Planes|M.I.A.|Pop Divas
+2008-09-27|5|Swagga Like Us|Jay-Z|Urban
+2008-09-27|6|Forever|Chris Brown|Soul - Modern
+2008-09-27|7|Closer|Ne-Yo|Soul - Modern
+2008-09-27|8|Can't Believe It|T-Pain|Urban
+2008-09-27|9|American Boy|Estelle|Urban
+2008-09-27|10|Got Money|Lil' Wayne|Urban
+2008-09-27|11|Dangerous|Kardinal Offishall|Urban
+2008-09-27|12|Hot N Cold|Katy Perry|Pop 2010
+2008-09-27|13|I'm Yours|Jason Mraz|Pop Divos
+2008-09-27|14|Viva La Vida|Coldplay|Rock - Mainstream
+2008-09-27|15|In The Ayer|Flo Rida|Urban
+2008-09-27|16|Love Story|Taylor Swift|Country - Modern
+2008-09-27|17|One Step At A Time|Jordin Sparks|American Idols
+2008-09-27|18|Better In Time|Leona Lewis|Pop Divas
+2008-09-27|19|I Kissed A Girl|Katy Perry|Pop 2010
+2008-09-27|20|Miss Independent|Ne-Yo|Soul - Modern
+2008-09-27|21|I Don't Care|Fall Out Boy|Rock - Modern
+2008-09-27|22|When I Grow Up|Pussycat Dolls|Girl Groups - Modern
+2008-09-27|23|Fall For You|Secondhand Serenade|Rock - Modern
+2008-09-27|24|Put On|Young Jeezy|Urban
+2008-09-27|25|Take A Bow|Rihanna|Soul - Modern
+2008-09-27|26|A Milli|Lil' Wayne|Urban
+2008-09-27|27|Leavin'|Jesse McCartney|Bubblegum
+2008-09-27|28|All Summer Long|Kid Rock|Rock - Modern
+2008-09-27|29|My Life|Game|Urban
+2008-09-27|30|Bleeding Love|Leona Lewis|Pop Divas
+2008-09-27|31|Get Like Me|David Banner|Urban
+2008-09-27|32|Crush|David Archuleta|American Idols
+2008-09-27|33|Let It Rock|Kevin Rudolf|Rock - Mainstream
+2008-09-27|34|Mrs. Officer|Lil' Wayne|Urban
+2008-09-27|35|Shake It|Metro Station|Rock - Mainstream
+2008-09-27|36|Just Stand Up|Various Artists|Rock - Mainstream
+2008-09-27|37|Love Remains The Same|Gavin Rossdale|Rock - Modern
+2008-09-27|38|Need U Bad|Jazmine Sullivan|Soul - Modern
+2008-09-27|39|Pocketful Of Sunshine|Natasha Bedingfield|Pop Divas
+2008-09-27|40|Don't Think That I Don't Think About It|Darius Rucker|Country - Modern
+2008-09-27|41|The Business|Yung Berg|Urban
+2008-09-27|42|Spotlight|Jennifer Hudson|American Idols
+2008-09-27|43|Do You Believe Me Now|Jimmy Wayne|Country - Modern
+2008-09-27|44|Lolli Lolli|Three 6 Mafia|Urban
+2008-09-27|45|Lollipop|Lil' Wayne|Urban
+2008-09-27|46|The Time Of My Life|David Cook|American Idols
+2008-09-27|47|Just A Dream|Carrie Underwood|American Idols
+2008-09-27|48|Swing|Savage|Urban
+2008-09-27|49|Everybody Wants To Go To Heaven|Kenny Chesney|Country - Modern
+2008-09-27|50|Waitin' On A Woman|Brad Paisley|Country - Modern
+2008-09-27|51|What Them Girls Like|Ludacris|Urban
+2008-09-27|52|She Never Cried In Front Of Me|Toby Keith|Country - Modern
+2008-09-27|53|Burnin' Up|Jonas Brothers|Bubblegum
+2008-09-27|54|Baby|LL Cool J|Urban
+2008-09-27|55|What About Now|Daughtry|American Idols
+2008-09-27|56|Shattered (Turn The Car Around)|O.A.R.|Rock - Modern
+2008-09-27|57|Addicted|Saving Abel|Rock - Modern
+2008-09-27|58|Johnny & June|Heidi Newfield|Country - Modern
+2008-09-27|59|Cookie Jar|Gym Class Heroes|Urban
+2008-09-27|60|Troubador|George Strait|Country - Modern
+2008-09-27|61|Out Here Grindin'|DJ Khaled|Urban
+2008-09-27|62|Magic|Robin Thicke|Pop Divos
+2008-09-27|63|Shut Up And Let Me Go|Ting Tings|Rock - Modern
+2008-09-27|64|Here I Am|Rick Ross|Urban
+2008-09-27|65|You Look Good In My Shirt|Keith Urban|Country - Modern
+2008-09-27|66|Should've Said No|Taylor Swift|Country - Modern
+2008-09-27|67|All I Want To Do|Sugarland|Country - Modern
+2008-09-27|68|Holler Back|Lost Trailers|Country - Modern
+2008-09-27|69|T-Shirt|Shontelle|Pop Divas
+2008-09-27|70|I Still Miss You|Keith Anderson|Country - Modern
+2008-09-27|71|Body On Me|Nelly|Urban
+2008-09-27|72|Heaven Sent|Keyshia Cole|Soul - Modern
+2008-09-27|73|Bartender Song (aka Sittin' At A Bar)|Rehab|Rock - Modern
+2008-09-27|74|Please Excuse My Hands|Plies|Urban
+2008-09-27|75|Just Dance|Lady Gaga|Pop 2010
+2008-09-27|76|That's What You Get|Paramore|Rock - Modern
+2008-09-27|77|Check Yes Juliet (Run Baby Run)|We The Kings|Rock - Mainstream
+2008-09-27|78|So Fly|Slim|Soul - Modern
+2008-09-27|79|Green Light|John Legend|Soul - Modern
+2008-09-27|80|Energy|Keri Hilson|Soul - Modern
+2008-09-27|81|Cry For You|September|Dance
+2008-09-27|82|I'd Rather Be With You|Joshua Radin|Folk
+2008-09-27|83|Right Here (Departed)|Brandy|Pop Divas
+2008-09-27|84|Lovebug|Jonas Brothers|Bubblegum
+2008-09-27|85|Come On Get Higher|Matt Nathanson|Folk
+2008-09-27|86|Thunder|Boys Like Girls|Rock - Modern
+2008-09-27|87|Mr. Carter|Lil' Wayne|Urban
+2008-09-27|88|All Summer Long|Hit Masters|Instrumental
+2008-09-27|89|Good Time|Alan Jackson|Country - Modern
+2008-09-27|90|If I Never See Your Face Again|Maroon5|Rock - Mainstream
+2008-09-27|91|Corona And Lime|Shwayze|Urban
+2008-09-27|92|No Me Doy Por Vencido|Luis Fonsi|Latin
+2008-09-27|93|Get Back|Demi Lovato|Bubblegum
+2008-09-27|94|7 Things|Hannah Montana|Bubblegum
+2008-09-27|95|Country Man|Luke Bryan|Country - Modern
+2008-09-27|96|Roll With Me|Montgomery Gentry|Country - Modern
+2008-09-27|97|Superwoman|Alicia Keys|Pop Divas
+2008-09-27|98|Bad Girlfriend|Theory Of A Deadman|Rock - Modern
+2008-09-27|99|Free Fallin'|John Mayer|Adult Contemporary
+2008-09-27|100|Let It Go|Tim McGraw|Country - Modern
+2008-09-20|1|Whatever You Like|T.I.|Urban
+2008-09-20|2|So What|Pink|Pop Divas
+2008-09-20|3|Disturbia|Rihanna|Soul - Modern
+2008-09-20|4|Forever|Chris Brown|Soul - Modern
+2008-09-20|5|Paper Planes|M.I.A.|Pop Divas
+2008-09-20|6|I'm Yours|Jason Mraz|Pop Divos
+2008-09-20|7|Viva La Vida|Coldplay|Rock - Mainstream
+2008-09-20|8|Closer|Ne-Yo|Soul - Modern
+2008-09-20|9|In The Ayer|Flo Rida|Urban
+2008-09-20|10|Dangerous|Kardinal Offishall|Urban
+2008-09-20|11|Just Stand Up|Various Artists|Rock - Mainstream
+2008-09-20|12|Can't Believe It|T-Pain|Urban
+2008-09-20|13|Hot N Cold|Katy Perry|Pop 2010
+2008-09-20|14|When I Grow Up|Pussycat Dolls|Girl Groups - Modern
+2008-09-20|15|Got Money|Lil' Wayne|Urban
+2008-09-20|16|I Kissed A Girl|Katy Perry|Pop 2010
+2008-09-20|17|One Step At A Time|Jordin Sparks|American Idols
+2008-09-20|18|Put On|Young Jeezy|Urban
+2008-09-20|19|Take A Bow|Rihanna|Soul - Modern
+2008-09-20|20|Leavin'|Jesse McCartney|Bubblegum
+2008-09-20|21|Fall For You|Secondhand Serenade|Rock - Modern
+2008-09-20|22|Better In Time|Leona Lewis|Pop Divas
+2008-09-20|23|Get Like Me|David Banner|Urban
+2008-09-20|24|A Milli|Lil' Wayne|Urban
+2008-09-20|25|All Summer Long|Kid Rock|Rock - Modern
+2008-09-20|26|Bleeding Love|Leona Lewis|Pop Divas
+2008-09-20|27|Miss Independent|Ne-Yo|Soul - Modern
+2008-09-20|28|Shake It|Metro Station|Rock - Mainstream
+2008-09-20|29|My Life|Game|Urban
+2008-09-20|30|Love Remains The Same|Gavin Rossdale|Rock - Modern
+2008-09-20|31|Lolli Lolli|Three 6 Mafia|Urban
+2008-09-20|32|Crush|David Archuleta|American Idols
+2008-09-20|33|Pocketful Of Sunshine|Natasha Bedingfield|Pop Divas
+2008-09-20|34|The Business|Yung Berg|Urban
+2008-09-20|35|Don't Think That I Don't Think About It|Darius Rucker|Country - Modern
+2008-09-20|36|Do You Believe Me Now|Jimmy Wayne|Country - Modern
+2008-09-20|37|Mrs. Officer|Lil' Wayne|Urban
+2008-09-20|38|Burnin' Up|Jonas Brothers|Bubblegum
+2008-09-20|39|Lollipop|Lil' Wayne|Urban
+2008-09-20|40|The Time Of My Life|David Cook|American Idols
+2008-09-20|41|Spotlight|Jennifer Hudson|American Idols
+2008-09-20|42|Need U Bad|Jazmine Sullivan|Soul - Modern
+2008-09-20|43|It's Not My Time|3 Doors Down|Rock - Modern
+2008-09-20|44|Just A Dream|Carrie Underwood|American Idols
+2008-09-20|45|Let It Rock|Kevin Rudolf|Rock - Mainstream
+2008-09-20|46|Waitin' On A Woman|Brad Paisley|Country - Modern
+2008-09-20|47|Everybody Wants To Go To Heaven|Kenny Chesney|Country - Modern
+2008-09-20|48|What Them Girls Like|Ludacris|Urban
+2008-09-20|49|I Luv Your Girl|The-Dream|Urban
+2008-09-20|50|Cyanide|Metallica|Rock - Modern
+2008-09-20|51|She Never Cried In Front Of Me|Toby Keith|Country - Modern
+2008-09-20|52|Swing|Savage|Urban
+2008-09-20|53|American Boy|Estelle|Urban
+2008-09-20|54|Troubador|George Strait|Country - Modern
+2008-09-20|55|Here I Am|Rick Ross|Urban
+2008-09-20|56|You Look Good In My Shirt|Keith Urban|Country - Modern
+2008-09-20|57|All I Want To Do|Sugarland|Country - Modern
+2008-09-20|58|Johnny & June|Heidi Newfield|Country - Modern
+2008-09-20|59|Magic|Robin Thicke|Pop Divos
+2008-09-20|60|I Still Miss You|Keith Anderson|Country - Modern
+2008-09-20|61|Should've Said No|Taylor Swift|Country - Modern
+2008-09-20|62|Baby|LL Cool J|Urban
+2008-09-20|63|All Summer Long|Hit Masters|Instrumental
+2008-09-20|64|Shattered (Turn The Car Around)|O.A.R.|Rock - Modern
+2008-09-20|65|Addicted|Saving Abel|Rock - Modern
+2008-09-20|66|Holler Back|Lost Trailers|Country - Modern
+2008-09-20|67|Heaven Sent|Keyshia Cole|Soul - Modern
+2008-09-20|68|Body On Me|Nelly|Urban
+2008-09-20|69|Out Here Grindin'|DJ Khaled|Urban
+2008-09-20|70|Check Yes Juliet (Run Baby Run)|We The Kings|Rock - Mainstream
+2008-09-20|71|The Day That Never Comes|Metallica|Rock - Modern
+2008-09-20|72|Please Excuse My Hands|Plies|Urban
+2008-09-20|73|That's What You Get|Paramore|Rock - Modern
+2008-09-20|74|Bartender Song (aka Sittin' At A Bar)|Rehab|Rock - Modern
+2008-09-20|75|What About Now|Daughtry|American Idols
+2008-09-20|76|Shut Up And Let Me Go|Ting Tings|Rock - Modern
+2008-09-20|77|Get Back|Demi Lovato|Bubblegum
+2008-09-20|78|Energy|Keri Hilson|Soul - Modern
+2008-09-20|79|Cry For You|September|Dance
+2008-09-20|80|Just Dance|Lady Gaga|Pop 2010
+2008-09-20|81|Thunder|Boys Like Girls|Rock - Modern
+2008-09-20|82|Corona And Lime|Shwayze|Urban
+2008-09-20|83|7 Things|Hannah Montana|Bubblegum
+2008-09-20|84|What Up, What's Haapnin'|T.I.|Urban
+2008-09-20|85|Come On Get Higher|Matt Nathanson|Folk
+2008-09-20|86|T-Shirt|Shontelle|Pop Divas
+2008-09-20|87|Good Time|Alan Jackson|Country - Modern
+2008-09-20|88|So Fly|Slim|Soul - Modern
+2008-09-20|89|Cookie Jar|Gym Class Heroes|Urban
+2008-09-20|90|Mr. Carter|Lil' Wayne|Urban
+2008-09-20|91|If I Never See Your Face Again|Maroon5|Rock - Mainstream
+2008-09-20|92|Swing Ya Rag|T.I.|Urban
+2008-09-20|93|American Boy|Estelle|Urban
+2008-09-20|94|It's Now Or Never|High School Musical Cast|Bubblegum
+2008-09-20|95|Mercy|Duffy|Pop Divas
+2008-09-20|96|Green Light|John Legend|Soul - Modern
+2008-09-20|97|Free Fallin'|John Mayer|Adult Contemporary
+2008-09-20|98|No Me Doy Por Vencido|Luis Fonsi|Latin
+2008-09-20|99|Never Would Have Made It|Marvin Sapp|Soul - Modern
+2008-09-20|100|Country Man|Luke Bryan|Country - Modern
