@@ -1,8 +1,8 @@
-function [sampSS, fftSS, melSS] = selfSim(fullpath)
+function [sampSS, fftSS, melSS] = selfSim(filename)
 %Calculates the self-similarity matrices of a song for samples, fft, and
 %mfccs and writes the data to a file
-slashes     = strfind(fullpath, '/'); 
-filename    = fullpath(slashes(size(slashes,2))+1:size(fullpath,2))
+%slashes     = strfind(fullpath, '/'); 
+%filename    = fullpath(slashes(size(slashes,2))+1:size(fullpath,2))
 [d,sr]      = mp3read(strcat('files/',filename));
 'file read success'
 buffersize  = 4096; %let this be an argument, try for different values?

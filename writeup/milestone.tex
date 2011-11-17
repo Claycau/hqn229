@@ -1,0 +1,38 @@
+\documentclass[11pt]{amsart}
+\usepackage{geometry}                % See geometry.pdf to learn the layout options. There are lots.
+\geometry{letterpaper}                   % ... or a4paper or a5paper or ... 
+%\geometry{landscape}                % Activate for for rotated page geometry
+%\usepackage[parfill]{parskip}    % Activate to begin paragraphs with an empty line rather than an indent
+\usepackage{graphicx}
+\usepackage{amssymb}
+\usepackage{epstopdf}
+\pagenumbering{arabic}
+\usepackage{listings}
+\oddsidemargin = 0 pt
+\evensidemargin = 0 pt
+\textwidth = 450pt
+\DeclareGraphicsRule{.tif}{png}{.png}{`convert #1 `dirname #1`/`basename #1 .tif`.png}
+
+\title{What Makes for a Hit Pop Song?}
+\author{Nick Borg and George Hokkanen}
+
+\begin{document}
+\maketitle
+{\huge Overview \huge} \\
+What are we doing \\
+
+{\huge Dataset \huge} \\
+Million songs, the subset for now, also last.fm tags correlated. Youtube metadata pulled with api.\\
+
+{\huge Preliminary Analysis \huge} \\
+Correlations on some of the variables and what those might mean.\\
+
+{\huge Feature Extraction \huge} \\
+Principle components on mfcc's, spectra to reduce dimensionality.\\
+
+{\huge Classification \huge} \\
+SVM on xyz. Naive bayes on tags.\\
+
+{\huge Results \huge} \\
+
+\end{document}  
