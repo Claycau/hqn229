@@ -59,44 +59,42 @@ def apply_to_all_files(basedir,func=lambda x: x,ext='.h5'):
 print 'number of song files:',apply_to_all_files(msd_subset_data_path)
 
 songdata = defaultdict(list)
-already = []
+#already = []
 
 # we define the function to apply to all files
 def extract_data(filename):
     h5 = GETTERS.open_h5_file_read(filename)
     
+    #what data you want:
     track_id = GETTERS.get_song_id(h5)
-    if track_id in already:
-    	h5.close()
-    	return
-    songdata[track_id].append(GETTERS.get_title(h5))
-    songdata[track_id].append(GETTERS.get_artist_name(h5))
-    songdata[track_id].append(GETTERS.get_duration)
     
     h5.close()
-    
-# let's apply the previous function to all files
+
+
+#already = []
+#f = open('/Users/empty/Documents/hqn229/data.txt','r')
+#for line in f:
+#	track_id = re.search(r"^[A-Z0-9]+", line)
+#	already.append(track_id.group(0))
+#f.close()
+
+
+
+# let's apply the previous function to all files 
 # we'll also measure how long it takes
-f = open('/Users/empty/Documents/hqn229/data.txt','r')
-
-for line in f:
-	track_id = re.search(r"^[A-Z0-9]+", line)
-	already.append(track_id.group(0))
-f.close()
-
-f = open('/Users/empty/Documents/hqn229/data.txt','a')
-print len(already)
 t1 = time.time()
 apply_to_all_files(msd_subset_data_path,func=extract_data)
 t2 = time.time()
 print 'all artist names extracted in:',strtimedelta(t1,t2)
 
+
+#Output the data:
+f = open('/Users/empty/Documents/hqn229/data.txt','a')
 for id,data in songdata.iteritems():
-	query = data[0].split()
-	query.extend(data[1].split())
-	key = getYTKeys(query)
-	ytdata = GetYTData(key)
-	line =  id + '|' + key + '|' + ytdata[0] + '|' + ytdata[1] + '|' + ytdata[2] + '\n'
+	
+	#output the data you want: 
+	#line =  id + '|' + key + '|' + data[0] + '|' + data[1] + '|' + data[2] + '\n'
+	
 	f.write(line)
 f.close()
 
