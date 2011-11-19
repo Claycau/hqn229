@@ -65,8 +65,8 @@ def apply_to_some_files(basedir,func=lambda x: x,ext='.h5'):
 					break
 				v = func(f)
 				if v!=[0,0]:
-					train_ids.append(v[0])
-					traindata[v[0]] = v[1]
+                                    train_ids.append(v[0])
+                                    traindata[v[0]] = v[1]
 			if c>pullsize:
 				break
 	return cnt
@@ -90,8 +90,11 @@ def extract_data(filename):
     track_id = GETTERS.get_song_id(h5)
     data = GETTERS.get_segments_pitches(h5)
     mfcc = np.zeros((12,dist))
+    #print len(data)
+    #print 'MFCC:'
+    #print data[1,1]
     flag = 0
-    for i in range(12):
+    for i in range(1):
     	try:
     		mfcc[i,:] = data[begin:end, i]
     	except ValueError:
@@ -100,6 +103,7 @@ def extract_data(filename):
     if flag==0:
         v[0] = track_id
         v[1] = mfcc
+    #track_ids.append(track_id)
     
     h5.close()
     return v
@@ -118,11 +122,11 @@ def reweight(bins, letter, it, h):
 	mfccs[:] = []
 	generate_strings_train(bins, h, train_ids)
 	count = count_occurences(letter, h)
-	#print count/total_chars
+	print count/total_chars
 	bins[h][letter] = bins[h][letter] + math.copysign(1.0, -1*target+count/total_chars)*math.pow(2,(-1*(it+1)))
-	#print bins[h][letter]
-	#if it==0:
-		#print "Reweight done for " + str(letter)
+	print bins[h][letter]
+	if it==0:
+		print "Reweight done for " + str(letter)
 
 def generate_strings_train(bins, h, ids):
 	for id in ids:
@@ -182,7 +186,7 @@ bins[0] =[9.99999046e-01,   8.80000114e-01,   7.82000542e-01,   6.98000908e-01,
  	   6.23000145e-01,   5.54999352e-01,   4.94999886e-01,   4.41000938e-01,
   	  3.96000862e-01,   3.53999138e-01,   3.14000130e-01,   2.79000282e-01,
   	  2.44999886e-01,   2.13000298e-01,  1.85000420e-01,   1.58999443e-01,
- 	  1.32000923e-01,   1.08000755e-01,   8.40005875e-02,   6.09998703e-02,
+  	  1.32000923e-01,   1.08000755e-01,   8.40005875e-02,   6.09998703e-02,
   	  3.90005112e-02,   1.29995346e-02,   9.53674316e-07,   9.53674316e-07,
   	  9.53674316e-07,   -1.00000000e+00]
 t2 = time.time()
@@ -208,7 +212,7 @@ for h in range(1,12):
 	for id,data in results.iteritems():
 		
 		#output the data you want: 
-		line =  id + '	' + data + '\n' #+ key + '|' + data[0] + '|' + data[1] + '|' + data[2] + '\n'
+		line =  id + '|' + data + '\n' #+ key + '|' + data[0] + '|' + data[1] + '|' + data[2] + '\n'
 		
 		f.write(line)
 	f.close()
