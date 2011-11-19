@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  19 NOV 2011 01:51
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  19 NOV 2011 15:06
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -357,42 +357,37 @@ Underfull \hbox (badness 10000) in paragraph at lines 31--32
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [1{/usr/local/texlive/2011/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 33--34
+Underfull \hbox (badness 10000) in paragraph at lines 33--35
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 35--36
+Underfull \hbox (badness 10000) in paragraph at lines 36--37
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 37--38
+Underfull \hbox (badness 10000) in paragraph at lines 38--39
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 39--40
+Underfull \hbox (badness 10000) in paragraph at lines 40--41
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 41--42
+Underfull \hbox (badness 10000) in paragraph at lines 42--43
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 43--44
+Underfull \hbox (badness 10000) in paragraph at lines 44--45
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 45--47
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 48--49
+Underfull \hbox (badness 10000) in paragraph at lines 46--49
 
  []
 
@@ -402,6 +397,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 50--51
  []
 
 
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [2]
 Underfull \hbox (badness 10000) in paragraph at lines 52--53
 
  []
@@ -412,10 +410,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 54--55
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \hbox (badness 10000) in paragraph at lines 56--57
 
- [2]
-Underfull \hbox (badness 10000) in paragraph at lines 56--58
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 58--60
 
  []
 
@@ -423,11 +423,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 56--58
 Here is how much of TeX's memory you used:
  4470 strings out of 493633
  60477 string characters out of 3143378
- 126299 words of memory out of 3000000
+ 127299 words of memory out of 3000000
  7560 multiletter control sequences out of 15000+200000
  11085 words of font info for 43 fonts, out of 3000000 for 9000
  992 hyphenation exceptions out of 8191
- 42i,6n,32p,1008b,219s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 42i,6n,32p,1187b,219s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/local/texlive/2011/texmf-dist/fonts/type1/public/a
 msfonts/cm/cmbx10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/am
 sfonts/cm/cmmi10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/ams
@@ -435,7 +435,7 @@ fonts/cm/cmr10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfo
 nts/cm/cmr17.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfont
 s/cm/cmr8.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/c
 m/cmr9.pfb>
-Output written on milestone.pdf (3 pages, 85624 bytes).
+Output written on milestone.pdf (3 pages, 86088 bytes).
 PDF statistics:
  38 PDF objects out of 1000 (max. 8388607)
  26 compressed objects within 1 object stream
