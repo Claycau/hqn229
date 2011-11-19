@@ -1,6 +1,7 @@
 .DS_Store
 files/*
 matlab/files/*
+matlab/libs/liblinear-1.8
 *.mp4
 *.mp3
 *.flv

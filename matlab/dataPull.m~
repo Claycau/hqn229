@@ -24,3 +24,13 @@ for i=1:cnt
     end
 end
 
+for i=1:10000
+F{i,1} = a{asi(i),2};
+F{i,2} = a{asi(i),3};
+F{i,3} = a{asi(i),4};
+F{i,4} = aa{aasi(i),2};
+F{i,5} = aa{aasi(i),3};
+F{i,6} = aa{aasi(i),4};
+F{i,7} = aa{aasi(i),5};
+end
+
