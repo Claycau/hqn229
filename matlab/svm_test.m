@@ -1,15 +1,12 @@
 addpath('libs/liblinear-1.8/matlab');  % add LIBLINEAR to the path
 
-%yearData = importdata('files/millionsongs/YearPredictionMSD.txt');
-%'file read in'
-testCategoryNS = 2*(yearData(463716:size(yearData,1),1)>2000)-1; %Training for year after 2000
-testCategory = sparse(testCategoryNS);
-avgTimbres = sparse(yearData(463716:size(yearData,1),2:13));
+testCategory = sparse(YTDataNS(7001:10000));
+avgSpec = sparse(specDatNS(7001:10000,:));
 
-numTestDocs = size(yearData,1)-463716;
+numTestDocs = size(YTDataNS,1)-7000;
 output = zeros(numTestDocs, 1);
 'going to predict...'
-[output, accuracy] = predict(testCategory, avgTimbres, model);
+[output, accuracy] = predict(testCategory, avgSpec, model);
 
 
 % Compute the error on the test set
