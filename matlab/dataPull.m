@@ -1,5 +1,5 @@
 % Build a list of all the files in the dataset
-all_files = findAllFiles('files/millionsongs/MillionSongSubset/data/');
+all_files = findAllFiles('files/MillionSongSubset/data/');
 cnt = length(all_files);
 %Cellfun version:
 %all_artist_names = cellfun(@(f) [get_song_hotttnesss(HDF5_Song_File_Reader(f)), get_tempo(HDF5_Song_File_Reader(f)), get_danceability(HDF5_Song_File_Reader(f)), get_loudness(HDF5_Song_File_Reader(f)), get_segments_loudness_max(HDF5_Song_File_Reader(f))], all_files, 'UniformOutput', false);
@@ -12,7 +12,7 @@ for i=1:cnt
     h5 = HDF5_Song_File_Reader(all_files{i});
     
     %For correlations:
-    datamat(i,:) = [get_song_hotttnesss(h5), get_tempo(h5), get_danceability(h5), get_loudness(h5)];
+    datamat(i,:) = [get_song_genre(h5)];
     S{i} = get_song_id(h5);
     
     %For svm, these have been saved in files/PCApitch and PCAtimbre
