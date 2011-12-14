@@ -25,6 +25,13 @@ featuresandlabels = featuresandlabels(randperm(size(featuresandlabels,1)),:);
 data = featuresandlabels(:, 1:30);
 genre_labels = featuresandlabels(:, 31);
 
+
+
+%test on just a few genres
+%genre_labels = (genre_labels==7)+(genre_labels==9*2);
+%tdata   =  test_data(find(genre_labels),:);
+%tlabels = train_labels(find(genre_lables),:);
+
 %test on a uniform dataset
 %{
 min_number = nnz(genre_labels==5);
@@ -55,7 +62,7 @@ test_data     = data(3800:4340,:);%50001:59600);
 %}
 
 
-%test one genre against another -run this all in a for loop, m, then n
+%test one genre against another
 data = featuresandlabels(:, 1:30);
 genre_labels = featuresandlabels(:, 31);
 label1 = m;
@@ -130,10 +137,8 @@ for i = 1:size(genre_labels,1)
 end
 k_prob = diag(1./sum(class_vs_cluster,2))*class_vs_cluster;
 k_prob = k_prob*100;
-
-
-%{
-%knn-classify
-class = knnclassify(test_data, train_data, train_labels, 5);
-knn_accuracy = nnz(class-test_labels)/test_size*100
 %}
+
+%knn-classify
+%class = knnclassify(test_data, train_data, train_labels, 5);
+%knn_accuracy = nnz(class-test_labels)/test_size*100
