@@ -1,0 +1,49 @@
+
+This is the ensemble classification toolbox CTOOL, which is an extension 
+of "ENTOOL" a software package for ensemble regression modelling. 
+
+Please follow the demo files in the demos/ directory to see some examples.
+
+Please note, that the CTOOL performs only binary classification and
+that the class labels have always to be -1 and 1 !!!
+
+Multi-Class classification has to be transformed into 
+several binary classification problems ! 
+
+The CTOOL has been use in several real world applications,
+read more about the toolbox and the ensemble idea in the
+following papers (all available online at http://www.j-wichard.de/pub.html):
+
+
+J. Wichard, R. Kuehne
+Predicting aqueous solubility from structure
+Journal of the University of Applied Sciences Mittweida,
+Proceedings of the 20. IWKM, 28.-29. Oct 2009.
+
+J.D. Wichard
+Classification of Ford Motor Data
+Contribution to the Ford Classification Challenge at WCCI 2008, Hong Kong.
+
+J.D. Wichard, H. Cammann, C. Stephan and T. Tolxdorff
+Classification Models for Early Detection of Prostate Cancer
+Journal of Biomedicine and Biotechnology, Volume 2008, Article ID 218097, doi:10.1155/2008/218097.
+
+J.D. Wichard
+Model Selection in an Ensemble Framework
+Proceedings of the IEEE World Congress on Computational Intelligence WCCI 2006, pp. 2187- 2192, Vancouver, Canada.
+
+Andreas Rothfuss, Thomas Steger-Hartmann, Nikolaus Heinrich, and Jörg Wichard
+Computational Prediction of the Chromosome-Damaging Potential of Chemicals
+Chemical Research in Toxicology, 19 (10), pp. 1313 -1319, September 2006.
+
+J.D. Wichard
+Agnostic Learning with Ensembles of Classifiers
+Proceedings of the IJCNN 2007, Orlando, Florida, USA. 
+
+
+
+Have fun !!
+
+J. Wichard
+FMP-Berlin
+May, 2010

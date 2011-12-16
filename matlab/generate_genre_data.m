@@ -26,13 +26,9 @@ featuresandlabels = featuresandlabels(randperm(size(featuresandlabels,1)),:);
 data = featuresandlabels(:, 1:30);
 genre_labels = featuresandlabels(:, 31);
 
-data = zscore(data);
-randomforest = TreeBagger(200 ,data, genre_labels, 'OOBPred', 'on')
-plot(oobError(randomforest))
-xlabel('Trees Grown')
-ylabel('out-of-bag classification error')
 
-%{
+
+
 %test on a uniform dataset
 
 min_number = nnz(genre_labels==5);
@@ -55,8 +51,10 @@ data = newfl;
 genre_labels = newgl;
 
 data = zscore(data);
-
-%}
+randomforest = TreeBagger(500 ,data, genre_labels, 'OOBPred', 'on')
+plot(oobError(randomforest))
+xlabel('Trees Grown')
+ylabel('out-of-bag classification error')
 
 %{  
 train_size = round(min_number*.7);
