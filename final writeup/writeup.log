@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  15 DEC 2011 23:03
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  16 DEC 2011 14:04
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -256,25 +256,25 @@ Class amsart Warning: Abstract should precede \maketitle in AMS document classe
 s; reported on input line 26.
 
 [1{/usr/local/texlive/2011/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-[2] (./writeup.aux) ) 
+[2] [3] (./writeup.aux) ) 
 Here is how much of TeX's memory you used:
  1964 strings out of 493633
  24228 string characters out of 3143378
- 89837 words of memory out of 3000000
+ 91837 words of memory out of 3000000
  5130 multiletter control sequences out of 15000+200000
  6845 words of font info for 27 fonts, out of 3000000 for 9000
  992 hyphenation exceptions out of 8191
- 34i,5n,32p,805b,310s stack positions out of 5000i,500n,10000p,200000b,50000s
-</usr/local/texlive/2011/texmf-dist/fonts/type1/public/ams
-fonts/cm/cmbx12.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsf
-onts/cm/cmcsc10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsf
-onts/cm/cmr10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfon
-ts/cm/cmr12.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts
-/cm/cmr9.pfb>
-Output written on writeup.pdf (2 pages, 80175 bytes).
+ 34i,5n,32p,1145b,350s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/local/texlive/2011/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmcsc10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmr10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmr12.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmr9.pfb>
+Output written on writeup.pdf (3 pages, 88786 bytes).
 PDF statistics:
- 31 PDF objects out of 1000 (max. 8388607)
- 21 compressed objects within 1 object stream
+ 34 PDF objects out of 1000 (max. 8388607)
+ 23 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

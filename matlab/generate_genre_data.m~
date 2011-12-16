@@ -26,7 +26,7 @@ featuresandlabels = featuresandlabels(randperm(size(featuresandlabels,1)),:);
 data = featuresandlabels(:, 1:30);
 genre_labels = featuresandlabels(:, 31);
 
- 
+%{ 
 %test on a uniform dataset
 
 min_number = nnz(genre_labels==5);
@@ -49,12 +49,12 @@ data = newfl;
 genre_labels = newgl;
 
 data = zscore(data);
-randomforest = TreeBagger(100 ,data, genre_labels, 'OOBVarImp', 'on')
+randomforest = TreeBagger(500 ,data, genre_labels, 'OOBPred', 'on')
 plot(oobError(randomforest))
 xlabel('Trees Grown')
 ylabel('out-of-bag classification error')
 
- %{
+ 
 train_size = round(min_number*.7);
 test_size  = size(genre_labels,1) - train_size;
 train_labels  = genre_labels(1:train_size);
@@ -102,53 +102,32 @@ train_labels  = genre_labels(1:train_size);
 test_labels   = genre_labels(train_size:size(genre_labels,1));
 train_data    = data(1:train_size,:);
 test_data     = data(train_size:size(genre_labels,1),:);
+%}
 
-
-%test on only a few genres
-genre1 = genre_labels==1;
-genre2 = genre_labels==7;
-genre3 = genre_labels==8;
-genre4 = genre_labels==10;
-data   = data(find(genre1+genre2+genre3+genre4),:);
-genre_labels = genre_labels(find(genre1+genre2+genre3+genre4));
-
+%{
 %normalize: 
 data = zscore(data);
 
 
-%train_labels  = genre_labels(1:50000);
-%test_labels   = genre_labels(50001:59600);
-%train_data    = data(1:50000,:);
-%test_data     = data(50001:59600,:);
-
-
-%train_size = round(min_number*.7);
-%test_size  = size(genre_labels,1) - train_size;
-%train_labels  = genre_labels(1:train_size);
-%test_labels   = genre_labels(train_size:size(genre_labels,1));
-%train_data    = data(1:train_size,:);
-%test_data     = data(train_size:size(genre_labels,1),:);
-
+train_labels  = genre_labels(1:50000);
+test_labels   = genre_labels(50001:59600);
+train_data    = data(1:50000,:);
+test_data     = data(50001:59600,:);
 
 sparse_data = sparse(data);
 sparse_labels = sparse(genre_labels);
-%sparse_train_labels = sparse(train_labels);
-%sparse_test_data    = sparse(test_data);
-%sparse_test_labels  = sparse(test_labels);
-%sparse_train_data   = sparse(train_data);
+sparse_train_labels = sparse(train_labels);
+sparse_test_data    = sparse(test_data);
+sparse_test_labels  = sparse(test_labels);
+sparse_train_data   = sparse(train_data);
 
 %SVM
-svm = train(sparse_labels, sparse_data,'-s 4 -v 5 -q');
+%svm = train(sparse_labels, sparse_data,'-s 4 -v 5 -q');
 %[predicted_label, accuracy] = predict(sparse_test_labels, sparse_test_data, svm);
 %A(m,n) = accuracy;
-randomforest = TreeBagger(500 ,data, genre_labels, 'OOBPred', 'on')
-plot(oobError(randomforest))
-xlabel('Trees Grown')
-ylabel('out-of-bag classification error')
+
+
 %}
-
-%{
-
 %k-means
 %clusters = [3 4 5 6 7 8 9];
 %data = balance(data)
@@ -156,14 +135,13 @@ clusters = [4];
 for j = 1:size(clusters,2)
     num_clusters = clusters(j);
     idx = kmeans(data, num_clusters, 'MaxIter',1000);
-    class_vs_cluster = zeros(size(unique_genres,1),num_clusters);
+    class_vs_cluster = zeros(num_clusters,size(unique_genres,1));
     for i = 1:size(genre_labels,1)
         class_vs_cluster(genre_labels(i),idx(i)) = class_vs_cluster(genre_labels(i),idx(i)) +1;
     end
     k_prob = diag(1./sum(class_vs_cluster,2))*class_vs_cluster;
     k_prob = k_prob*100;
 end
-%}
 %{
     accuracies = zeros(num_clusters,1);
     for i=1:num_clusters
