@@ -1,0 +1,48 @@
+
+\documentclass[12pt]{amsart}
+%\usepackage{geometry} % see geometry.pdf on how to lay out the page. There's lots.
+\usepackage[margin=1in]{geometry}
+\geometry{letterpaper} % or letter or a5paper or ... etc
+\usepackage{multicol}
+
+% Figures within a column...
+\makeatletter
+\newenvironment{tablehere}
+{\def\@captype{table}}
+{}
+\newenvironment{figurehere}
+{\def\@captype{figure}}
+{}
+\makeatother
+
+\title{What Makes for a Hit Pop Song? What Makes for a Pop Song?}
+\author{Nicholas Borg and George Hokkanen}
+
+%%% BEGIN DOCUMENT
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+The possibility of a hit song prediction algorithm is both academically interesting and industry motivated. While several companies currently attest to their ability to make such predictions, publicly available research suggests that current methods are unlikely to produce accurate predictions. Support Vector Machines were trained on song features and YouTube view counts to very limited success. We discuss the possibility that musical features alone cannot account for popularity. Current research into automated genre detection given features extracted from music has shown more promising. Using a combination of K-Means clustering and Support Vector Machines, as well as a Random Forest, we produced two automated classifiers that performs five times better than chance for 10 genres. 
+\end{abstract}
+
+
+\begin{multicols}{2}
+
+\section{Introduction}
+
+\section{Data}
+Our main source of data was the Million Song Dataset Subset, distributed by Labrosa. The subset provides pre-extracted features for 10,000 songs. 
+\section {Popularity Prediction}
+\subsection{Linear Classification using Support Vector Machines}
+\subsection{String Kernel}
+\section{Popularity Prediction Results}
+\section{Genre Classification}
+\section{Genre Classification Results}
+
+
+
+\end{multicols}
+
+\end{document}
